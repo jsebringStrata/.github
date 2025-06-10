@@ -13,7 +13,7 @@
 
 - 🚀 **Engineering Manager** 
 - 💡 Passionate about **Open Source** and **Developer Exprience**
-- 👥 Love mentoring developers and building high-performing teams
+- 👥 Love mentoring developers and building teams
 
 <br clear="right"/>
 

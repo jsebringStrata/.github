@@ -3,9 +3,6 @@
 # 👋 Hello, World! 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Engineering+Manager;Former+Principal+Full+Stack;Former+Solutions+Architect;Former+DevOps+Engineer;Building+Cool+Products+%F0%9F%9A%80" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=jsebringStrata&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="Profile views" />
-
 </div>
 
 ---
@@ -14,9 +11,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🚀 **Engineering Manager** leading teams to build innovative products
-- 💡 Passionate about **scalable architectures** and **developer experience**
-- 🌱 Currently exploring the intersection of **AI** and **software engineering**
+- 🚀 **Engineering Manager** 
+- 💡 Passionate about **Open Source** and **Developer Exprience**
 - 👥 Love mentoring developers and building high-performing teams
 
 <br clear="right"/>

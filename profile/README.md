@@ -2,7 +2,7 @@
   
 # 👋 Hello, World! 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Engineering+Manager;Former+Principal+Full+Stack;Solutions+Architect;DevOps+Engineer;Building+Cool+Products+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Engineering+Manager;Former+Principal+Full+Stack;Former+Solutions+Architect;Former+DevOps+Engineer;Building+Cool+Products+%F0%9F%9A%80" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=jsebringStrata&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="Profile views" />
 
